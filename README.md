@@ -71,4 +71,4 @@ By accuracy score, when C=10, gamma=1.0, kernel='rbf', my classifier had greates
 And when gamma is 0.9, it had little bit higher accuracy score. <br> 
 That's why I chose 0.9 at gamma. <br>
 <br>
-Thank you for watching my readme!😊😊
+### Thank you for watching my readme!😊😊
